@@ -43,7 +43,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Movie Search</h1>
+      <h1>Search for a Movie</h1>
       <input
         id="searchMovie"
         type="text"
